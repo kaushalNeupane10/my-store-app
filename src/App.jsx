@@ -1,8 +1,9 @@
-import Navbar from "./Components/Navbar"
+import HomePage from "./Pages/HomePage";
+
 export default function App() {
   return (
     <>
-     <Navbar/> 
+    <HomePage/>
     </>
   )
 }
